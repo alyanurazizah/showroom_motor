@@ -8,7 +8,7 @@ Syahrul Haqqin Nazil
 
 Iyasya Nadira Lesmana
 
-https://www.linkedin.com/in/revan-oknanda-8950413a6/
+www.linkedin.com/in/alya-nur-azizah-9219373a5
 
 # 🏍️ Database Showroom Motor
 
@@ -350,5 +350,6 @@ Menampilkan isi dari view yang sudah dibuat.
 ---
 
 # 📌 Kesimpulan
+
 
 Project ini menunjukkan cara membuat database showroom motor lengkap dengan relasi antar tabel dan pengolahan data transaksi menggunakan MySQL/MariaDB.
